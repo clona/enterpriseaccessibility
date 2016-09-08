@@ -1,0 +1,6 @@
+{
+  "name": "Enterpriseaccessibility",
+  "tagline": "Shows how better, accessible digital experiences can improve the lives of every day people. ",
+  "body": "<!DOCTYPE html>\r\n<html>\r\n<style type=\"text/css\">\r\nbody,td,th {\r\n\tfont-family: \"Arial Black\", Gadget, sans-serif;\r\n\tfont-size: 14px;\r\n\tcolor: #FFF;\r\n}\r\n</style>\r\n<body bgcolor=\"#000000\">\r\n\r\n<div align=\"center\">\r\n<video width=\"1200\" height=\"600\" controls preload=\"none\">\r\n    <source src=\"ea_vid.mp4\" type=\"video/mp4\">\r\n    <source src=\"ea_vid.ogg\" type=\"video/ogg\">\r\n    \r\n\r\n</video>\r\n</div>\r\n\r\n<div align=\"center\"> This presentation for Enterprise Accessibility shows how better, accessible digital experiences can improve the lives of every day people.\r\n</div>\r\n\r\n</body>\r\n</html>",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
